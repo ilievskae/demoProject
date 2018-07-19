@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Elena",
+    "points": "1780",
+    "achievements": "silver",
+    "board":"2",
+    "status":"star",
+    "photoUrl":"./common/user0.png"
+  },
+  {
+    "name": "Filip",
+    "points": "1405",
+    "achievements": "silver",
+    "board":"3",
+    "status":"star",
+    "photoUrl":"./common/user1.png"
+  },
+  {
+    "name": "Stefan",
+    "points": "1005",
+    "achievements": "bronze",
+    "board":"4",
+    "status":"new ",
+    "photoUrl":"./common/user2.png"
+  },
+  {
+    "name": "Noah",
+    "points": "2314",
+    "achievements": "gold",
+    "board":"1",
+    "status":"vip ",
+    "photoUrl":"./common/user3.png"
+  },
+  {
+     "name": "Anna",
+    "points": "1000",
+    "achievements": "bronze",
+    "board":"5",
+    "status":"new ",
+    "photoUrl":"./common/user4.png"
+  }
+]
